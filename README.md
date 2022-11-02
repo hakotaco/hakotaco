@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshDarkfold
+- 👋 Hi, I’m @AshDarkfold, I've been using a different work acconut since October 2021 :)
 - 👀 I’m interested in Web UX, DevX and Software Engineering as a whole.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on TS based open source libs 
