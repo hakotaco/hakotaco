@@ -1,4 +1,4 @@
-- 👋 Hey I’m Ashutosh, a software engineer with a primary expertise in JavsScript.
+- 👋 Hey I’m Ashutosh, a software engineer with a primary expertise in TypeScript (and JS)
 - 👀 I’m interested in Web UX, DevX and Software Engineering as a whole.
 - 🌱 I’m passively learning Rust and Go.
 - 💞️ I’m looking to collaborate on TS based open source libs 
