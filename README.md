@@ -1,5 +1,5 @@
 - 👋 Hey I’m Ashutosh, a full-stack software engineer with a primary expertise in Frontend development.
-- 💯 My top skills are TypeScript, React, Vue, Node.js, and python.
+- 💯 My top skills are TypeScript, React, Vue, Node.js, and Go.
 - 👀 I’m pursuing my masters in Computing Science (Software engineering and Distributed Systems) at the University of Groningen, Netherlands.
 - 🌱 I’m also actively learning Machine Learning and AI.
 - 💸 I'm a registered freelancer in the Netherlands.
